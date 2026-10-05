@@ -1,0 +1,7 @@
+@'
+/*
+!/notebook/
+!/.gitignore
+.ipynb_checkpoints/
+__pycache__/
+'@ | Set-Content .gitignore
